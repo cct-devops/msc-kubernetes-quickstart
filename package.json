@@ -1,0 +1,16 @@
+{
+  "name": "msc-kubernetes-quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cct-devops/msc-kubernetes-quickstart.git"
+  },
+  "author": "David Gonzalez",
+  "license": "MIT",
+  "homepage": "https://github.com/cct-devops/msc-kubernetes-quickstart#readme",
+  "dependencies": {
+    "fastify": "^3.24.1"
+  }
+}
